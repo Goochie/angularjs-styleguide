@@ -1,6 +1,6 @@
 # AngularJS styleguide
 
-*Opinionated AngularJS styleguide for teams*
+*Opinionated AngularJS styleguide / best practise for teams*
 
 This styleguide comprises work done by toddmotto (https://github.com/toddmotto/)[Angular](//angularjs.org), 
 
